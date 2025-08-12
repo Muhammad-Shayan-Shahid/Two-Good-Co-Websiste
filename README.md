@@ -24,6 +24,6 @@ The site features **smooth scrolling with Locomotive Scroll** and **engaging ani
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/two-good-co.git
+   https://github.com/Muhammad-Shayan-Shahid/Two-Good-Co-Websiste.git
 2. Open the index.html file in your browser
 3. Enjoy browsing the website 🎉
