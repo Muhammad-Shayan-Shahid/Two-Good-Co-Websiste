@@ -495,4 +495,7 @@ html, body {
   .page4 .about p {
     font-size: clamp(14px, 2vw, 18px);
   }
+  .page5 .footer-left h1{
+  font-size: 2vw;
+}
 }
