@@ -459,3 +459,44 @@ html, body {
   width: 100%;
 }
 }
+@media screen and (max-height: 500px) {
+  .nav {
+    height: 80px;
+    padding: 10px;
+  }
+
+  .page1 {
+    margin-top: 15vh;
+    padding: 5vw 3vw;
+  }
+
+  .page1 > h1 {
+    font-size: 12vw;
+    line-height: 1.1em;
+  }
+
+  .video-container {
+    min-height: 50vh;
+  }
+
+  .page2 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 3vw;
+    padding: 3vw;
+  }
+
+  .page2 .elem {
+    width: 48%;
+    height: auto;
+  }
+
+  .page4 .about {
+    height: auto;
+    padding: 2vw;
+  }
+
+  .page4 .about p {
+    font-size: clamp(14px, 2vw, 18px);
+  }
+}
