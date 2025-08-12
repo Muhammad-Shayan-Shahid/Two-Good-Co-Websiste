@@ -482,12 +482,13 @@ html, body {
   .page2 {
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 3vw;
     padding: 3vw;
   }
 
   .page2 .elem {
-    width: 48%;
+    width: 48%; /* Only 2 per row */
     height: auto;
   }
 
