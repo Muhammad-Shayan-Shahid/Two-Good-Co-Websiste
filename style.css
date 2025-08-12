@@ -453,6 +453,9 @@ html, body {
   font-size: 5vw;
   padding: 10px;
 }
+  .page6 {
+ display: none;
+}
 }
 @media screen and (max-height: 500px) {
   .nav {
@@ -497,5 +500,8 @@ html, body {
   }
   .page5 .footer-left h1{
   font-size: 2vw;
+}
+  .page6 {
+ display: none;
 }
 }
