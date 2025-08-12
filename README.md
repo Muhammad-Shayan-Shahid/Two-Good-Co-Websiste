@@ -27,3 +27,10 @@ The site features **smooth scrolling with Locomotive Scroll** and **engaging ani
    https://github.com/Muhammad-Shayan-Shahid/Two-Good-Co-Websiste.git
 2. Open the index.html file in your browser
 3. Enjoy browsing the website 🎉
+
+## 👨‍💻 Website Developer
+**Muhammad Shayan Shahid**  
+📍 Front-End Developer   
+📧 msshahid23052006@gmail.com  
+
+Feel free to collaborate...
